@@ -41,4 +41,4 @@ const settings = {
 
 If you like the background, you can [snag it here](https://www.artstation.com/artwork/189aEo).
 
-## [Download Time Remaining](time-remaining.widget.zip)
+## [Download Time Remaining](https://github.com/jaredmeakin/ubersicht-time-remaining/releases/latest)
