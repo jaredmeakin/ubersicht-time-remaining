@@ -1,0 +1,12 @@
+{
+  "name": "ubersicht-time-remaining",
+  "version": "1.0.0",
+  "description": "An Übersicht widget.",
+  "main": "TimeRemaining.jsx",
+  "repository": "git@github.com:jaredmeakin/ubersicht-time-remaining.git",
+  "author": "Jared Meakin <jared.meakin@me.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
